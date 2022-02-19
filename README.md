@@ -1,8 +1,8 @@
-👋 Hi, I’m Kangmoon Seo from Republic of Korea. 
-<hr/>
+👋 Hi, I’m <b>Kangmoon Seo</b> from Korea. 
+
 I've dealt with Programming Languages such as: 
 <br>
-C++, JavaScript, Vue.js, Node.js, D3.js, PHP, JSP, Verilog 
+`C++`, `JavaScript`, `Vue.js`, `Node.js`, `D3.js`, `PHP`, `JSP`, `Verilog` 
 
 <!---
 KangmoonSeo/KangmoonSeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
