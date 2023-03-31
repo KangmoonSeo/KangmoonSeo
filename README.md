@@ -1,10 +1,7 @@
 👋 Hi, I’m <b>Kangmoon Seo</b> from South Korea. 
 
 I've dealt with Tech Skills such as: <br>
-`C++` <br>
-`JavaScript`, `Vue.js`, `Node.js` <br>
-`MySQL`, `PHP`, `JSP` and ... <br>
-`Verilog` <br>
+`C++`, `Javascript`, `Vue.js`, `MySQL`, `PHP`, `JSP`
 
 
 
