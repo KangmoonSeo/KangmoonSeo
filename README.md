@@ -1,7 +1,9 @@
 👋 Hi, I’m <b>Kangmoon Seo</b> from South Korea. 
 
 I've dealt with Tech Skills such as: <br>
-`C++`, `Javascript`, `PHP`, `JSP`, `Vue.js`, `MySQL`
+`C++`, `JavaScript`, `Vue.js`, `Java`, `MySQL`,
+<br>
+`jQuery`, `PHP`, `JSP` . . . for legacy codes
 
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=70002467)](https://solved.ac/70002467)
 
