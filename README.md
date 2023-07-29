@@ -4,18 +4,18 @@
 ---
 ## Tech
 ### Strong
-- `Spring Framework`, `Java`, `MySQL`
+- `Spring MVC`, `Spring Framework`, `Java`, `MySQL`
 - `HTML/CSS`, `ES5 JavaScript`, `jQuery`
-- `C++(PS)`
   
 ### Knowledgeable
 - `Vue.js`, `PHP`, `JSP`
+- `C++(PS)`
 
 ---
 ## Awards
 - **단장급 표창장**
-  - 환경부 연계 수문정보시스템 개발 및 운영 시스템 취약점 제거
-  - 21.12.01., 공군기상단
+  - 환경부 연계 수문정보시스템 개발 및 운영 시스템 웹 취약점 제거
+  - 2021.12., 공군기상단
 
 ---
 ## Activity
