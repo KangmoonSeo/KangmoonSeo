@@ -8,7 +8,7 @@
 - `HTML/CSS`, `ES5 JavaScript`, `jQuery`
   
 ### Knowledgeable
-- `Vuex 2`, `Vue.js`, `Thymeleaf`, `PHP`, `JSP`
+- `Vuex`, `Vue 2`, `JSP`, `Thymeleaf`, `PHP`
 - `C++(PS)`
 
 ---
