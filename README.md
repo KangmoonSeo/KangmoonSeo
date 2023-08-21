@@ -4,11 +4,11 @@
 ---
 ## Tech
 ### Strong
-- `Spring MVC`, `Spring Framework`, `Java`, `MySQL`
+- `Spring MVC`, `JPA`, `Spring Framework`, `Java`
 - `HTML/CSS`, `ES5 JavaScript`, `jQuery`
   
 ### Knowledgeable
-- `Vue.js`, `PHP`, `JSP`
+- `Vuex 2`, `Vue.js`, `Thymeleaf`, `PHP`, `JSP`
 - `C++(PS)`
 
 ---
