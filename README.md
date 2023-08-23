@@ -24,5 +24,6 @@
   - 2021.04. ~ 2022.11., 공군기상단 기상SW개발실
   
 --- 
-[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=70002467)](https://solved.ac/70002467)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=70002467"> 
+
 
