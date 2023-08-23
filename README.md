@@ -4,7 +4,7 @@
 ---
 ## Tech
 ### Strong
-- `Spring MVC`, `JPA`, `Spring Framework`, `Java`
+- `Spring MVC`, `JPA Hibernate`, `Spring Framework`, `Java`
 - `HTML/CSS`, `ES5 JavaScript`, `jQuery`
   
 ### Knowledgeable
