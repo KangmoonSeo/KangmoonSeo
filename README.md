@@ -2,13 +2,13 @@
 👋 Hi, I’m **Kangmoon Seo** from Korea. 
 
 ---
-## Tech
+## Skills
 ### Strong
 - `Spring MVC`, `JPA Hibernate`, `Spring Framework`, `Java`
-- `HTML/CSS`, `ES5 JavaScript`, `jQuery`
+- `JSP`, `JavaScript(ES5)`, `jQuery`
   
 ### Knowledgeable
-- `Vuex`, `Vue 2`, `JSP`, `Thymeleaf`, `PHP`
+- `Flutter`, `Vue.js`, `Thymeleaf`, `PHP`
 - `C++(PS)`
 
 ---
