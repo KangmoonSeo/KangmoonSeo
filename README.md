@@ -1,17 +1,18 @@
 ## About
-👋 Hi, I’m **Kangmoon Seo** from Korea. 
+👋 Hi, I’m **Kangmoon Seo**, a Server Engineer from South Korea. 
 
 ---
 ## Skills
 ### Strong
-- `Spring MVC` / `JPA Hibernate` / `Spring Boot` / `Java` 
-- `JSP` / `jQuery` / `JavaScript(ES5)`
+- `Spring Boot` / `JPA Hibernate` / `Java` 
+- `Spring MVC` / `Thymeleaf` / `JSP`
+- `MySQL` / `Tibero` / `H2 Database`
 
 ### Knowledgeable
-- `Vue.js` / `PHP` / `Flutter` / `Thymeleaf` 
-- `Docker` / `LLM server` / `LangChain`
+- `LLM Setup` / `Llamaindex` / `LangChain`  
+- `Docker` / `FastAPI` / `Python` 
 - `S/W Architecture`
-- `FastAPI` / `Python` 
+- `Vue.js` / `JavaScript(ES5)` / `jQuery` / `Flutter` / `PHP`
 - `C++(PS)` 
 
 ---
@@ -24,17 +25,18 @@
   - 환경부 연계 수문정보 표출 서비스 개발
   - 웹 시스템 코드 취약점 제거
   - 2021.12.01. 공군기상단
+    
 ---
 ## Activity
 - **탄소중립 이노베이션 아카데미** - 인하대학교 SW중심대학사업단
-  - 팀장, PM, Python 백엔드 개발
+  - 팀 리딩, PM, Python API 서버 개발, 모델 서버 구성
   - 2023.08. ~
 - **정보통신공학과** - 인하대학교
-  - 3학년 2학기 재학 중
+  - 3학년 2학기 재학
   - 2019.03. ~
 - **2023 이노씽크 메이커톤** - 인하대학교 LINC 3.0 사업단
-  - 팀장, 서비스 및 알고리즘 기획, Java 백엔드 개발
-  - 2023.10. ~ 2023.11.
+  - 팀 리딩, 서비스 및 군집 알고리즘 기획, Java API 서버 개발
+  - 2023.09. ~ 2023.11.
 - **기상SW개발지원병** - 공군기상단 기상SW개발실
   - 웹 클라이언트 서비스 개발 및 운영
   - Vue.js, PHP, JSP, jQuery
