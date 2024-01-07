@@ -4,11 +4,12 @@
 ---
 ## Skills
 ### Strong
+- `LangChain` / `FastAPI` / `Python`
 - `Spring Boot` / `JPA Hibernate` / `Java`
-- `FastAPI` / `LangChain` / `Python`
-- `MySQL` / `H2 Database`
+- `MySQL` / `H2 Database` 
   
 ### Knowledgeable
+- `RAG` / `LlamaIndex` / `LangChain Agent` / `LLM setup`
 - `Spring MVC` / `Thymeleaf` / `JSP` 
 - `S/W Architecture` / `Docker`
 - `Vue.js` / `JavaScript(ES5)` / `jQuery` / `Flutter` / `PHP`
@@ -29,14 +30,14 @@
 ## Activity
 - **탄소중립 이노베이션 아카데미** - 인하대학교 SW중심대학사업단
   - SW/AI 기술을 이용한 탄소중립 실현
-  - 팀 리딩, PM, Python API 서버 개발, 모델 서버 구성
+  - 팀 리딩, RAG 및 LangChain Agent 응용 서버 개발, 모델 서버 구축
   - 2023.08. ~
 - **정보통신공학과** - 인하대학교
   - 3학년 2학기 재학
   - 2019.03. ~
 - **2023 이노씽크 메이커톤** - 인하대학교 LINC 3.0 사업단
   - 공유 킥보드의 사회 문제 해결
-  - 팀 리딩, 서비스 및 군집 알고리즘 기획, Java API 서버 개발
+  - 팀 리딩, 서비스 및 군집화 알고리즘 기획, Java API 서버 개발
   - 2023.09. ~ 2023.11.
 - **기상SW개발지원병** - 공군기상단 기상SW개발실
   - 웹 클라이언트 서비스 개발 및 운영
