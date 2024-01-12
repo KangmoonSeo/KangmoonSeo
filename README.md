@@ -9,7 +9,7 @@
 - `MySQL` / `H2 Database` 
   
 ### Knowledgeable
-- `RAG` / `LlamaIndex` / `LangChain Agent` / `LLM setup`
+- `LlamaIndex`[`RAG`](https://arxiv.org/abs/2005.11401) / `LangChain Agent`[`ReAct`](https://arxiv.org/abs/2210.03629) / `Open-Source LLM`
 - `Spring MVC` / `Thymeleaf` / `JSP` 
 - `S/W Architecture` / `Docker`
 - `Vue.js` / `JavaScript(ES5)` / `jQuery` / `Flutter` / `PHP`
