@@ -1,20 +1,23 @@
 ## About
 👋 Hi, I’m **Kangmoon Seo**, a Server Engineer from South Korea. <br/>
-I'm really passionate about crafting impactful services using AI/Software technology. 
+I'm passionate about crafting impactful services using AI/Software technology. 
 
 ---
 ## Skills
 ### Strong
 - `FastAPI` / `Python` / `LangChain` / `LlamaIndex`
 - `Spring Boot` / `JPA Hibernate` / `Java`
-- `MySQL` / `H2 Database` 
+- `MySQL` / `H2 Database`
+- `JavaScript` 
   
 ### Knowledgeable
 - `Open-Source LLMs` / `LLM setup with GPUs`
-- `Spring MVC` / `Thymeleaf` 
-- `S/W Architecture` / `Docker` / `GitHub CI/CD` 
-- `Vue.js` / `JavaScript(ES5)` / `jQuery` / `Flutter` / `JSP` / `PHP`
-- `C++(PS)` 
+- `Software Architecture` / `Docker` / `GitHub CI/CD`
+- `Thymeleaf` / `Spring MVC` 
+- `Vue.js` / `Flutter` / `JSP` / `PHP` / `jQuery` / `Handlebars`
+- `Node.js` / `Tibero DB`
+- `Verilog` 
+- `C++(PS)`
 
 ---
 ## Awards
@@ -22,21 +25,20 @@ I'm really passionate about crafting impactful services using AI/Software techno
   - 우수상
   - 공유 킥보드의 군집화를 유도하는 실시간 주차 권장 구역 제안
   - 2023.11.19. 인하대학교 LINC 3.0 사업단
-- **업무유공 개인표창**
-  - 부대발전 업무유공
-    - 환경부 연계 수문정보 표출 서비스 개발
-    - 웹 시스템 코드 취약점 제거
+- **업무유공 개인표창** - 부대발전 업무유공
+  - 환경부 연계 수문정보 표출 서비스 개발
+  - 웹 시스템 코드 취약점 제거
   - 2021.12.01. 공군기상단
     
 ---
 ## Activity
 - **정보통신공학과** - 인하대학교
   - 4학년 1학기 재학
-  - 2019.03. ~
+  - 2019.03. ~ 
 - **탄소중립 이노베이션 아카데미** - 인하대학교 SW중심대학사업단
   - SW/AI 기술을 이용한 탄소중립 실현
   - 팀 리딩, LLM 비즈니스 로직 개발, FastAPI 서버 개발, 모델 서버 구축, 서비스 기획
-  - 2023.08. ~ 2024.02.
+  - 2023.09. ~ 2024.02.
 - **2023 이노씽크 메이커톤** - 인하대학교 LINC 3.0 사업단
   - 공유 킥보드의 사회 문제 해결
   - 팀 리딩, 군집화 알고리즘 개발, Java API 서버 개발, 서비스 기획
