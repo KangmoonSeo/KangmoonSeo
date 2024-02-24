@@ -8,15 +8,12 @@ I'm passionate about crafting impactful services using AI/Software technology.
 - `FastAPI` / `Python` / `LangChain` / `LlamaIndex`
 - `Spring Boot` / `JPA Hibernate` / `Java`
 - `MySQL` / `H2 Database`
-- `JavaScript` 
   
 ### Knowledgeable
-- `Open-Source LLMs` / `LLM setup with GPUs`
 - `Software Architecture` / `Docker` / `GitHub CI/CD`
+- `Open-Source LLMs` / `LLM setup with GPUs`
 - `Thymeleaf` / `Spring MVC` 
-- `Vue.js` / `Flutter` / `JSP` / `PHP` / `jQuery` / `Handlebars`
-- `Node.js` / `Tibero DB`
-- `Verilog` 
+- `JavaScript`/ `Vue.js` / `Flutter` / `JSP` / `PHP` / `jQuery`
 - `C++(PS)`
 
 ---
