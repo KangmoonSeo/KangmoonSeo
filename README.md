@@ -18,6 +18,14 @@ I'm passionate about crafting impactful services using AI/Software technology.
 
 ---
 ## Awards
+- **인하대학교 SW중심대학사업단장상** - 탄소중립 INNOVATION 아카데미
+  - 최우수상
+  - 대규모 언어 모델(LLM)을 결합한 소매업자 데이터 분석 서비스
+  - 2024.02.27. 인하대학교 SW중심대학사업단
+- **인하대학교 SW중심대학사업단장상** - 탄소중립 INNOVATION 아카데미
+  - 최우수상
+  - 23-2 개인 포트폴리오 심사
+  - 2024.02.27. 인하대학교 SW중심대학사업단
 - **인하대학교 LINC 3.0 사업단장상** - 2023 이노씽크 메이커톤
   - 우수상
   - 공유 킥보드의 군집화를 유도하는 실시간 주차 권장 구역 제안
@@ -32,7 +40,7 @@ I'm passionate about crafting impactful services using AI/Software technology.
 - **정보통신공학과** - 인하대학교
   - 4학년 1학기 재학
   - 2019.03. ~ 
-- **탄소중립 이노베이션 아카데미** - 인하대학교 SW중심대학사업단
+- **탄소중립 이노베이션 아카데미 수료** - 인하대학교 SW중심대학사업단
   - SW/AI 기술을 이용한 탄소중립 실현
   - 팀 리딩, LLM 비즈니스 로직 개발, FastAPI 서버 개발, 모델 서버 구축, 서비스 기획
   - 2023.09. ~ 2024.02.
