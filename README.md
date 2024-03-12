@@ -1,11 +1,10 @@
 ## About
-👋 Hi, I’m **Kangmoon Seo**, a Server Engineer from South Korea. <br/>
+👋 Hi, I’m **Kangmoon Seo**, a Server Engineer in South Korea. <br/>
 
 ### I'm passionate about ...
 - back-end development
 - software architecture
-- LLM
-- crafting impactful services using AI
+- crafting impactful services using AI, Software
 
 ### For more information ...
 - Resume : https://kangmoonseo.notion.site/Seo-Kangmoon-b8fb1b1880df4558ad60ecafc3734dba
