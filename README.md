@@ -1,5 +1,5 @@
 ## About
-👋 Hi, I’m **Kangmoon Seo**, a Server Engineer in South Korea. <br/>
+👋 Hi, I’m **Kangmoon Seo**, a Server Developer in South Korea. <br/>
 
 ### I'm passionate about ...
 - back-end development
