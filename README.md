@@ -1,11 +1,11 @@
 ## About
-👋 Hi, I’m **Kangmoon Seo**, a Server Developer in South Korea. <br/>
+👋 Hi, I’m **Kangmoon Seo**, a Server/Web Developer in South Korea. <br/>
 
 ### I'm passionate about ...
-- back-end development
-- software architecture
+- Back-End Development
+- AppSec and Coding conventions
+- Software Architecture
 - LLM Applications
-- crafting impactful services with AI
 
 ### For more information ...
 - Resume : https://kangmoonseo.notion.site/Seo-Kangmoon-b8fb1b1880df4558ad60ecafc3734dba
