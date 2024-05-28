@@ -7,10 +7,6 @@
 - Software Architecture
 - LLM Applications
 
-### For more information ...
-- E-mail : m_oon17@naver.com
-- portfolio : https://kangmoonseo.notion.site/Seo-Kangmoon-b8fb1b1880df4558ad60ecafc3734dba
-
 --- 
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=70002467)](https://solved.ac/70002467)
 
