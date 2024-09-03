@@ -9,6 +9,7 @@
 - Back-End Development Skills
 - Software Architecture
 
+<!--
 <details>
 <summary><b>Contributions</b></summary>
 
@@ -18,6 +19,7 @@
   - 📝 [Pull Request #19569](https://github.com/langchain-ai/langchain/pull/19569): fix error output in XMLOutputParser documentation
 
 </details>
+-->
     
 --- 
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=70002467)](https://solved.ac/70002467)
